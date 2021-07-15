@@ -1,2 +1,2 @@
 # github-training
-Some trainings on github
+Some trainings on github.
